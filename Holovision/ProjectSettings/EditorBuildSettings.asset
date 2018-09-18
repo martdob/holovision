@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/main.unity
+    guid: 4b66f141b0414c24ea90afa7aee7278e
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Utilities/Scenes/TextToSpeechManager.unity
+    guid: d2f7079824a6d4945a1af491818b8124
