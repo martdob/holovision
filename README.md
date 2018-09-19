@@ -5,7 +5,7 @@ Holovision is an example for use of Microsoft Computer Visopn API with Hololens
 Instructions:
 1.	You will need a Microsoft Cognitive Services account and a subscription key for the Computer Vision API.
 If you already have an Azure account you can skip this step. Setup a Computer Vision App directly in your Azure subscription. To do that go directly to the Azure portal.
-2.	Clone this repository with the --recursive flag. This will also get the appropriate version of the MRTK in the root folder for this project.
+2.	Clone this repository
 3.	Open the main scene, which you kind find in the root of the Assets folder
 4.	Select the myInfo Script and enter following information from your Azure Portal:
 o	Computer Vision key
